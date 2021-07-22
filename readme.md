@@ -1,4 +1,3 @@
-\
 
 # middleware-practice
 
@@ -8,9 +7,7 @@
     express: ^4.17.1
     nodemon 2.0.7
     express-handlebars: ^5.3.2
-    mongoose ^5.13.3
-    method-override ^3.0.0
-    body-parser: 1.19.0
+  
     
 
 ## Installing 
